@@ -1,5 +1,5 @@
 use std::time::Instant;
-use y15::{args, result};
+use y23::{args, result};
 
 const BIN: &str = env!("CARGO_BIN_NAME");
 
